@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm AASIA FATMA</h1>
 <h3 align="center">A CSE sophomore who to explore new fields and technology...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-sia27&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-sia27" /> </p>
+<img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
 - 🔭 I’m currently working on **zomato Clone**
 
@@ -10,14 +12,13 @@
 - 👯 I’m looking to collaborate on **projects**
 
 - 💬 Ask me about **HTML, CSS and Js**
-- <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
 
 - 📫 How to reach me **fatma.sia2020@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD :)**
 
-[![MasterHead](https://www.canva.com/design/DAE3Romf3gw/00cm7qMJAJqluJ1n-jQmww/view?utm_content=DAE3Romf3gw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/fatma-sia27)
+
 
 
 
