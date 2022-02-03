@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on **projects**
 
 - 💬 Ask me about **HTML, CSS and Js**
-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...
-")
+- <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
 
 - 📫 How to reach me **fatma.sia2020@gmail.com**
