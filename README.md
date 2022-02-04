@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AASIA FATMA</h1>
-<h3 align="center">A CSE sophomore who to explore new fields and technology...</h3>
+<h3 align="center">A CSE sophomore who loves to explore new fields and technology...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-sia27&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-sia27" /> </p>
 <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
