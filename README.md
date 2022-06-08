@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-sia27&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-sia27" /> </p>
 <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
-- 🔭 I’m currently working on **zomato Clone**
+- 🔭 I’m currently working on **My SIH(Smart India Hackathon) project**
 
 - 🌱 I’m currently learning **BootStrap and react**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **HTML, CSS and Js**
+- 💬 Ask me about **Java, HTML, CSS , Js and React**
 
 
 - 📫 How to reach me **fatma.sia2020@gmail.com**
