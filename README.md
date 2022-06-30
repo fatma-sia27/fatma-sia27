@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm AASIA FATMA</h1>
 <h3 align="center">A CSE sophomore who loves to explore new fields and technology...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-sia27&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-sia27" /> </p>
 <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
 - 🔭 I’m currently working on **My SIH(Smart India Hackathon) project**
@@ -40,4 +39,9 @@
  
 <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatma-sia27&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
 
-<p><img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-sia27&_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" alt="fatma-sia27" /></p>
+<p><img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fatma-sia27&&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" alt="fatma-sia27" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fatma-sia27/count.svg" />
+</p>
