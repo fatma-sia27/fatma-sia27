@@ -1,13 +1,13 @@
 <img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/node.svg" alt="image" />
 
 <h1 align="center">Hi 👋, I'm AASIA FATMA</h1>
-<h3 align="center">A 3rd year CSE student who loves to explore new fields and technology...</h3>
+<h3 align="center">A final year CSE student who loves to explore new fields and technology...</h3>
 
 <img align="right" width="200px" sec="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
-- 🔭 I’m currently working on **My SIH(Smart India Hackathon) project**
+- 🔭 I’m currently working looking for internship / FTE 
 
-- 🌱 I’m currently learning **BootStrap and react**
+- 🌱 I’m currently learning **next.js**
 
 - 👯 I’m looking to collaborate on **projects**
 
